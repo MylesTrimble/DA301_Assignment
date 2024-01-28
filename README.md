@@ -14,7 +14,7 @@ This repository contains:
 3. Report (.pdf)
 
 4. Turtle Games Logo (.png)
-    - This file is required to execute the first line of code effeectively in the Jupyter Notebook.
+    - This file is required to execute the first line of code effectively in the Jupyter Notebook.
 
 -----------------------------------------------------------
 
