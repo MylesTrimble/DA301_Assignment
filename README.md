@@ -3,8 +3,6 @@
 # Trimble_Myles_DA301_Assignment
 ## Predictive Analytics
 
------------------------------------------------------------
-
 This repository contains:
 
 1. Jupyter Notebook (.ipynb & .py)
